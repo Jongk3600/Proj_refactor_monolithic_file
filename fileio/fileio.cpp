@@ -1,5 +1,5 @@
-#include "../includes/fileio.h"
 #include "../includes/constants.h"
+#include "../includes/fileio.h"
 
 
 //attempt to open file 'filename' and read in all data
